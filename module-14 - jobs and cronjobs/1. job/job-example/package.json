@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/mongodb": "3.0.15",
-    "@types/request-promise": "4.1.41",
+    "@types/request-promise": "4.1.51",
     "chalk-animation": "^1.6.0",
     "mongodb": "3.0.7",
     "request": "2.85.0",
