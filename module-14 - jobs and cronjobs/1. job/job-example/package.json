@@ -12,7 +12,7 @@
   "author": "erickwendel",
   "license": "ISC",
   "dependencies": {
-    "@types/mongodb": "3.0.15",
+    "@types/mongodb": "3.6.20",
     "@types/request-promise": "4.1.41",
     "chalk-animation": "^1.6.0",
     "mongodb": "3.0.7",
