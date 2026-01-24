@@ -17,6 +17,6 @@
     "chalk-animation": "^1.6.0",
     "mongodb": "3.0.7",
     "request": "2.85.0",
-    "request-promise": "4.2.2"
+    "request-promise": "4.2.6"
   }
 }
